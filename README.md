@@ -22,7 +22,7 @@ Welcome to the repository for my **personal static website**! This project showc
 
 ## Technologies Used
 
-- **HTML**: For the structure and content of the web pages.
+- ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - **CSS**: For styling and layout.
 - **JavaScript**: For interactivity and dynamic functionality.
 
