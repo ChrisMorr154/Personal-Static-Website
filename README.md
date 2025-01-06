@@ -1,4 +1,4 @@
-# Personal-Static-Website
+# Personal Website
 
 Welcome to the repository for my **personal static website**! This project showcases my skills and interests through a clean, responsive, and user-friendly design. It has been built using core web technologies: **HTML**, **CSS**, and **JavaScript**.
 
