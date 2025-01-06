@@ -16,7 +16,7 @@ Welcome to the repository for my **personal static website**! This project showc
 
 ## Preview
 
-![Project Screenshot](Resources/"screenshot-of-website.png")
+![Project Screenshot](Resources/screenshot-of-website.png)
 
 
 ---
