@@ -19,6 +19,7 @@ Welcome to the repository for my **personal static website**! This project showc
 ![Project Screenshot](Resources/screenshot.png)
 
 
+
 ---
 
 ## Technologies Used
